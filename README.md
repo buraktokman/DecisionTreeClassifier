@@ -1,7 +1,7 @@
 # Tutorial for Decision Tree Classifier
 
 Tutorial for Decision Tree Classifier with scikit-learn
-Based on the [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
+Based on the [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 
 ## Summary
 
